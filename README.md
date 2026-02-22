@@ -122,7 +122,7 @@ CLIENT_SECRET=supersecretclient
 # Installation
 
 ## Clone Repository
-git clone <repo-url>
+git clone https://github.com/ImBsarfraz/student-management-system.git
 cd student-management-system
 ---
 
